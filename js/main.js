@@ -4,4 +4,4 @@ document.querySelector('header > h2').innerText = "Business Tour Edition"
 
 //giving the body an h1-h2 header.
 document.getElementById('head1').innerHTML = "CMT Engineering Tour";
-document.getElementById('head2').innerHTML = "Take a walk through with this virtual tour of a civil engineering building. ";
+document.getElementById('head2').innerHTML = "Take A Virtual Tour Through In Civil Engineering Building. ";

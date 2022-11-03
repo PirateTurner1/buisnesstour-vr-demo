@@ -17,8 +17,7 @@ html {
 }
 
 div#wrapper {
-    margin-left: 10px;
-    margin-right: 10px;
+    margin-left: 150px;
     max-width: 1080px;
     box-shadow: 0 0 20px #444;
     background-color: white;
@@ -45,13 +44,13 @@ header {
     padding-top: 20px;
     text-shadow: 3px 3px rgb(5, 5, 5);
     text-indent: 20px;
-    margin: 0 170px 30px 10px;
+    margin: 20px 170px 30px 10px;
 }
 
 #slogan {
     color: rgb(255, 251, 0);
     font-size: 2rem, ;
-    padding-top: 20px;
+    padding-top: 90px;
     margin-left: 40px;
     text-shadow: 3px 3px rgb(5, 5, 5);
     text-indent: 5px;
@@ -61,7 +60,11 @@ main h1 {
     clear: both;
 }
 
-main img {}
+main img {
+    height: 80px;
+    width: 450px;
+    margin-left: 30px;
+}
 
 
 /* main body stuff*/
@@ -72,28 +75,47 @@ footer {
     clear: both;
 }
 
+main {
+    background-color: #c2946f;
+}
+
 h1 {
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
     align-items: left;
     color: black;
-    padding-top: 20px;
+    padding-top: 30px;
+    margin-left: 20px;
 }
 
-h2 {
+h3 {
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
     align-items: left;
-    color: #048000;
-    margin-top: 17px;
-    margin-bottom: 5px;
+    color: #034d00;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    margin-left: 20px;
     /*text-indent: 30px;*/
     font-size: 26px;
+    padding-bottom: 10px;
+}
+
+p {
+    padding-bottom: 5px;
+    margin-left: 25px;
+}
+
+ol {
+    list-style: none;
+    padding-bottom: 25px;
 }
 
 footer {
     text-align: center;
     clear: both;
+    padding-top: 3px;
+    padding-bottom: 3px;
 }
