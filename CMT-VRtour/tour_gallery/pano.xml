@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="18116" start="node7" appversion="6.1.15">
+  <panorama id="node7">
+    <input height="2257" width="2257" overlap="1" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400" levelingroll="0" leveltilesize="510" levelbiashidpi="1.000">
+      <level height="2257" predecode="0" width="2257" preload="0"/>
+      <level height="1128" predecode="0" width="1128" preload="0"/>
+      <level height="564" predecode="0" width="564" preload="0"/>
+      <level height="282" predecode="1" width="282" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="79.5674" fovmode="0">
+      <start fov="70" projection="4" tilt="17.8206" pan="-1.51641"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="120" scaletofit="1" tilt="90" fovfisheye="360" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata info="" title="CMT Engineering Tour" author="-" nodeid="node7" heading="79.5674" tags="CMT Engineering business tour" latitude="40.32831534" streetviewlink="https://www.google.com/maps/@40.3283153,-111.7420621,3a,75y,79.57h/data=!3m4!1e1!3m2!1sAF1QipM1RSHAnYF9TfrdQYpG23ykpy5BHffK5EHqP0JQ!2e10" description="" datetime="10/15/22 4:42 PM" longitude="-111.74206205" source="" customnodeid="" copyright="" comment=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label enabled="1" wordwrap="1" height="20" textcolor="0x000000" width="180" textalpha="1" border="1" background="1" backgroundalpha="1" borderradius="1" bordercolor="0x000000" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" borderalpha="1"/>
+      <hotspot title="" tilt="0.3" target="$fwd" skinid="ht_node" description="" url="{node6}" id="Point01" distance="3.29863" pan="-6.87216"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" blendtime="1" blendcolor="0x000000" zoomoutpause="1" zoomspeed="2" zoomfov="20" zoomafterinfov="90" zoomafteroutfov="20" softedge="0" zoomout="0" zoomin="0" type="crossdissolve"/>
+    <autorotate enabled="1" useanimation="0" delay="5.00" nodefilter="" nodedelay="0.00" speed="0.050" startloaded="0" noderandom="1" returntohorizon="0.000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control dblclickfullscreen="0" contextfullscreen="1" lockedwheel="0" invertwheel="0" contextvr="1" simulatemass="1" speedwheel="1" invertcontrol="1" contextprojections="0" sensitivity="8" rubberband="0" lockedmouse="0" lockedkeyboardzoom="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input height="2264" width="2264" overlap="1" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400" levelingroll="0" leveltilesize="510" levelbiashidpi="1.000">
+      <level height="2264" predecode="0" width="2264" preload="0"/>
+      <level height="1132" predecode="0" width="1132" preload="0"/>
+      <level height="566" predecode="0" width="566" preload="0"/>
+      <level height="283" predecode="1" width="283" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="87.727" fovmode="0">
+      <start fov="70" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="120" scaletofit="1" tilt="90" fovfisheye="360" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata info="" title="" author="-" nodeid="node6" heading="87.727" tags="CMT Engineering business tour" latitude="40.32831636" streetviewlink="https://www.google.com/maps/@40.3283164,-111.7420232,3a,75y,87.73h/data=!3m4!1e1!3m2!1sAF1QipPd8nfDtKlm8VppfqlQ6NDsr3HOBjnNejcTRn8G!2e10" description="" datetime="10/15/22 5:20 PM" longitude="-111.74202316" source="" customnodeid="" copyright="" comment=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label enabled="1" wordwrap="1" height="20" textcolor="0x000000" width="180" textalpha="1" border="1" background="1" backgroundalpha="1" borderradius="1" bordercolor="0x000000" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" borderalpha="1"/>
+      <hotspot title="CMT Engineering Tour" tilt="0" target="$fwd" skinid="ht_node" description="" url="{node7}" id="Point01" distance="3.29863" pan="179.697"/>
+      <hotspot title="" tilt="-1.7" target="$fwd" skinid="ht_node" description="" url="{node2}" id="Point02" distance="2.40888" pan="-9.69261"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" blendtime="1" blendcolor="0x000000" zoomoutpause="1" zoomspeed="2" zoomfov="20" zoomafterinfov="90" zoomafteroutfov="20" softedge="0" zoomout="0" zoomin="0" type="crossdissolve"/>
+    <autorotate enabled="1" useanimation="0" delay="5.00" nodefilter="" nodedelay="0.00" speed="0.050" startloaded="0" noderandom="1" returntohorizon="0.000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control dblclickfullscreen="0" contextfullscreen="1" lockedwheel="0" invertwheel="0" contextvr="1" simulatemass="1" speedwheel="1" invertcontrol="1" contextprojections="0" sensitivity="8" rubberband="0" lockedmouse="0" lockedkeyboardzoom="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input height="2261" width="2261" overlap="1" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400" levelingroll="0" leveltilesize="510" levelbiashidpi="1.000">
+      <level height="2261" predecode="0" width="2261" preload="0"/>
+      <level height="1130" predecode="0" width="1130" preload="0"/>
+      <level height="565" predecode="0" width="565" preload="0"/>
+      <level height="282" predecode="1" width="282" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="187.744" fovmode="0">
+      <start fov="70" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="120" scaletofit="1" tilt="90" fovfisheye="360" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata info="" title="" author="-" nodeid="node2" heading="187.744" tags="CMT Engineering business tour" latitude="40.32830920" streetviewlink="https://www.google.com/maps/@40.3283092,-111.7419963,3a,75y,187.74h/data=!3m4!1e1!3m2!1sAF1QipM_lCbGHveckl7E1U2_lp6ay-15mEHE9BM1O4WH!2e10" description="" datetime="10/21/22 9:42 AM" longitude="-111.74199634" source="" customnodeid="" copyright="" comment=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label enabled="1" wordwrap="1" height="20" textcolor="0x000000" width="180" textalpha="1" border="1" background="1" backgroundalpha="1" borderradius="1" bordercolor="0x000000" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" borderalpha="1"/>
+      <hotspot title="" tilt="0" target="$fwd" skinid="ht_node" description="" url="{node6}" id="Point01" distance="2.40888" pan="258.444"/>
+      <hotspot title="" tilt="-10.26" target="$fwd" skinid="ht_node" description="" url="{node1}" id="Point02" distance="2.22465" pan="131.627"/>
+    </hotspots>
+    <media>
+      <video loop="1" level="1.000" height="360" mode="3" field="90.000" ambientlevel="0.000" clickmode="2" pansize="10.000" handcursor="0" rotx="2.000" stretch="1.000" id="Element01" tiltsize="10.000" pan="-295.780" width="640" rotz="1.000" tilt="1.570" startmutedmobile="0" roty="-25.000" fov="14.550" nodechangekeep="0">
+        <source url="media/What is Civil Engineering？.mp4"/>
+      </video>
+    </media>
+    <transition enabled="1" blendtime="1" blendcolor="0x000000" zoomoutpause="1" zoomspeed="2" zoomfov="20" zoomafterinfov="90" zoomafteroutfov="20" softedge="0" zoomout="0" zoomin="0" type="crossdissolve"/>
+    <autorotate enabled="1" useanimation="0" delay="5.00" nodefilter="" nodedelay="0.00" speed="0.050" startloaded="0" noderandom="1" returntohorizon="0.000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control dblclickfullscreen="0" contextfullscreen="1" lockedwheel="0" invertwheel="0" contextvr="1" simulatemass="1" speedwheel="1" invertcontrol="1" contextprojections="0" sensitivity="8" rubberband="0" lockedmouse="0" lockedkeyboardzoom="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node1">
+    <input height="2264" width="2264" overlap="1" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400" levelingroll="0" leveltilesize="510" levelbiashidpi="1.000">
+      <level height="2264" predecode="0" width="2264" preload="0"/>
+      <level height="1132" predecode="0" width="1132" preload="0"/>
+      <level height="566" predecode="0" width="566" preload="0"/>
+      <level height="283" predecode="1" width="283" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="91.6693" fovmode="0">
+      <start fov="70" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="120" scaletofit="1" tilt="90" fovfisheye="360" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata info="" title="" author="-" nodeid="node1" heading="91.6693" tags="CMT Engineering business tour" latitude="40.32831993" streetviewlink="https://www.google.com/maps/@40.3283199,-111.7419742,3a,75y,91.67h/data=!3m4!1e1!3m2!1sAF1QipOPT5t0Hme1Wiovwq1vGJlFOAT35Z-k1FThlX3Q!2e10" description="" datetime="10/15/22 4:54 PM" longitude="-111.74197419" source="" customnodeid="" copyright="" comment=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label enabled="1" wordwrap="1" height="20" textcolor="0x000000" width="180" textalpha="1" border="1" background="1" backgroundalpha="1" borderradius="1" bordercolor="0x000000" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" borderalpha="1"/>
+      <hotspot title="" tilt="18.61" target="$fwd" skinid="ht_node" description="" url="{node8}" id="Point01" distance="2.38914" pan="262.027"/>
+      <hotspot title="" tilt="-7.01" target="$fwd" skinid="ht_node" description="" url="{node2}" id="Point02" distance="2.22465" pan="201.813"/>
+      <hotspot title="" tilt="-3.17" target="$fwd" skinid="ht_node" description="" url="{node3}" id="Point03" distance="4.3728" pan="359.617"/>
+      <hotspot title="" tilt="-5.85" target="$fwd" skinid="ht_node" description="" url="{node6}" id="Point04" distance="4.17009" pan="181.882"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" blendtime="1" blendcolor="0x000000" zoomoutpause="1" zoomspeed="2" zoomfov="20" zoomafterinfov="90" zoomafteroutfov="20" softedge="0" zoomout="0" zoomin="0" type="crossdissolve"/>
+    <autorotate enabled="1" useanimation="0" delay="5.00" nodefilter="" nodedelay="0.00" speed="0.050" startloaded="0" noderandom="1" returntohorizon="0.000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control dblclickfullscreen="0" contextfullscreen="1" lockedwheel="0" invertwheel="0" contextvr="1" simulatemass="1" speedwheel="1" invertcontrol="1" contextprojections="0" sensitivity="8" rubberband="0" lockedmouse="0" lockedkeyboardzoom="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input height="2259" width="2259" overlap="1" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400" levelingroll="0" leveltilesize="510" levelbiashidpi="1.000">
+      <level height="2259" predecode="0" width="2259" preload="0"/>
+      <level height="1129" predecode="0" width="1129" preload="0"/>
+      <level height="564" predecode="0" width="564" preload="0"/>
+      <level height="282" predecode="1" width="282" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="88.95" fovmode="0">
+      <start fov="70" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="120" scaletofit="1" tilt="90" fovfisheye="360" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata info="" title="" author="-" nodeid="node3" heading="88.95" tags="CMT Engineering business tour" latitude="40.32832608" streetviewlink="https://www.google.com/maps/@40.3283261,-111.7419232,3a,75y,88.95h/data=!3m4!1e1!3m2!1sAF1QipOIednA0XohIkfPytOR5N4NCogobrxAFmcn0YMR!2e10" description="" datetime="10/15/22 4:57 PM" longitude="-111.74192324" source="" customnodeid="" copyright="" comment=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label enabled="1" wordwrap="1" height="20" textcolor="0x000000" width="180" textalpha="1" border="1" background="1" backgroundalpha="1" borderradius="1" bordercolor="0x000000" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" borderalpha="1"/>
+      <hotspot title="" tilt="0" target="$fwd" skinid="ht_node" description="" url="{node1}" id="Point01" distance="4.3728" pan="187.947"/>
+      <hotspot title="" tilt="-3.27" target="$fwd" skinid="ht_node" description="" url="{node4}" id="Point02" distance="10.1131" pan="8.63572"/>
+      <hotspot title="Bags of Dirt" tilt="-27.06" target="" skinid="ht_image" description="" url="images/Dirt.jpg" id="Point03" pan="-142.17"/>
+      <hotspot title="Pressure Skales" tilt="-4.31" target="" skinid="ht_image" description="" url="images/pressurePoints.png" id="Point04" pan="-76.12"/>
+      <hotspot title="Weight-Skales" tilt="-4" target="" skinid="ht_image" description="" url="images/weighters.jpg" id="Point05" pan="-10.45"/>
+    </hotspots>
+    <media>
+      <sound loop="1" ambientlevel="0.000" startmutedmobile="0" mode="5" tilt="-3.710" level="1.000" id="Element01" tiltsize="10.000" nodechangekeep="0" pansize="10.000" pan="-46.000" field="90.000">
+        <source url="media/engineering Lab sound.mp3"/>
+      </sound>
+    </media>
+    <transition enabled="1" blendtime="1" blendcolor="0x000000" zoomoutpause="1" zoomspeed="2" zoomfov="20" zoomafterinfov="90" zoomafteroutfov="20" softedge="0" zoomout="0" zoomin="0" type="crossdissolve"/>
+    <autorotate enabled="1" useanimation="0" delay="5.00" nodefilter="" nodedelay="0.00" speed="0.050" startloaded="0" noderandom="1" returntohorizon="0.000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control dblclickfullscreen="0" contextfullscreen="1" lockedwheel="0" invertwheel="0" contextvr="1" simulatemass="1" speedwheel="1" invertcontrol="1" contextprojections="0" sensitivity="8" rubberband="0" lockedmouse="0" lockedkeyboardzoom="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input height="2259" width="2259" overlap="1" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400" levelingroll="0" leveltilesize="510" levelbiashidpi="1.000">
+      <level height="2259" predecode="0" width="2259" preload="0"/>
+      <level height="1129" predecode="0" width="1129" preload="0"/>
+      <level height="564" predecode="0" width="564" preload="0"/>
+      <level height="282" predecode="1" width="282" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="2.16608" fovmode="0">
+      <start fov="70" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="120" scaletofit="1" tilt="90" fovfisheye="360" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata info="" title="" author="-" nodeid="node4" heading="2.16608" tags="CMT Engineering business tour" latitude="40.32833528" streetviewlink="https://www.google.com/maps/@40.3283353,-111.7418046,3a,75y,2.2h,90t/data=!3m4!1e1!3m2!1sAF1QipN5-DqhiekexkZXd9WoPHJa4BgZIVlg85ZVYiul!2e10" description="" datetime="10/15/22 5:04 PM" longitude="-111.74180455" source="" customnodeid="" copyright="" comment=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label enabled="1" wordwrap="1" height="20" textcolor="0x000000" width="180" textalpha="1" border="1" background="1" backgroundalpha="1" borderradius="1" bordercolor="0x000000" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" borderalpha="1"/>
+      <hotspot title="" tilt="-5.54" target="$fwd" skinid="ht_node" description="" url="{node3}" id="Point01" distance="10.1131" pan="94.6417"/>
+      <hotspot title="" tilt="-9.98" target="$fwd" skinid="ht_node" description="" url="{node5}" id="Point02" distance="13.6084" pan="-128.798"/>
+      <hotspot title="" tilt="0.1" target="$fwd" skinid="ht_node" description="" url="{node1}" id="Point04" distance="14.4812" pan="92.745"/>
+      <hotspot title="Drying Oven" tilt="-5.39" target="" skinid="ht_image" description="" url="images/Dryer-Oven.jpg" id="Point03" pan="-242.8"/>
+      <hotspot title="Water-Tubs" tilt="-5.57" target="" skinid="ht_image" description="" url="images/water-tubs.jpg" id="Point05" pan="-145.2"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" blendtime="1" blendcolor="0x000000" zoomoutpause="1" zoomspeed="2" zoomfov="20" zoomafterinfov="90" zoomafteroutfov="20" softedge="0" zoomout="0" zoomin="0" type="crossdissolve"/>
+    <autorotate enabled="1" useanimation="0" delay="5.00" nodefilter="" nodedelay="0.00" speed="0.050" startloaded="0" noderandom="1" returntohorizon="0.000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control dblclickfullscreen="0" contextfullscreen="1" lockedwheel="0" invertwheel="0" contextvr="1" simulatemass="1" speedwheel="1" invertcontrol="1" contextprojections="0" sensitivity="8" rubberband="0" lockedmouse="0" lockedkeyboardzoom="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input height="2259" width="2259" overlap="1" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400" levelingroll="0" leveltilesize="510" levelbiashidpi="1.000">
+      <level height="2259" predecode="0" width="2259" preload="0"/>
+      <level height="1129" predecode="0" width="1129" preload="0"/>
+      <level height="564" predecode="0" width="564" preload="0"/>
+      <level height="282" predecode="1" width="282" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-89.2964" fovmode="0">
+      <start fov="70" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="120" scaletofit="1" tilt="90" fovfisheye="360" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata info="" title="" author="-" nodeid="node5" heading="-89.2964" tags="CMT Engineering business tour" latitude="40.32832812" streetviewlink="https://www.google.com/maps/@40.3283281,-111.7416443,3a,75y,270.7h,90t/data=!3m4!1e1!3m2!1sAF1QipOtU7U6boXWza-rg9AcImPcd2jc0kQclfm1VgxN!2e10" description="" datetime="10/15/22 5:07 PM" longitude="-111.74164429" source="" customnodeid="" copyright="" comment=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label enabled="1" wordwrap="1" height="20" textcolor="0x000000" width="180" textalpha="1" border="1" background="1" backgroundalpha="1" borderradius="1" bordercolor="0x000000" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" borderalpha="1"/>
+      <hotspot title="" tilt="-12.92" target="$fwd" skinid="ht_node" description="" url="{node4}" id="Point01" distance="13.6084" pan="-30.2504"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" blendtime="1" blendcolor="0x000000" zoomoutpause="1" zoomspeed="2" zoomfov="20" zoomafterinfov="90" zoomafteroutfov="20" softedge="0" zoomout="0" zoomin="0" type="crossdissolve"/>
+    <autorotate enabled="1" useanimation="0" delay="5.00" nodefilter="" nodedelay="0.00" speed="0.050" startloaded="0" noderandom="1" returntohorizon="0.000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control dblclickfullscreen="0" contextfullscreen="1" lockedwheel="0" invertwheel="0" contextvr="1" simulatemass="1" speedwheel="1" invertcontrol="1" contextprojections="0" sensitivity="8" rubberband="0" lockedmouse="0" lockedkeyboardzoom="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input height="2266" width="2266" overlap="1" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400" levelingroll="0" leveltilesize="510" levelbiashidpi="1.000">
+      <level height="2266" predecode="0" width="2266" preload="0"/>
+      <level height="1133" predecode="0" width="1133" preload="0"/>
+      <level height="566" predecode="0" width="566" preload="0"/>
+      <level height="283" predecode="1" width="283" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="3.42923" fovmode="0">
+      <start fov="70" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="120" scaletofit="1" tilt="90" fovfisheye="360" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata info="" title="" author="-" nodeid="node8" heading="3.42923" tags="CMT Engineering business tour" latitude="40.32829845" streetviewlink="https://www.google.com/maps/@40.3282984,-111.7419749,3a,75y,3.43h/data=!3m4!1e1!3m2!1sAF1QipMhnSeu8EJ8UsWiasNK7KkVEUasLUY6QSxVK6hM!2e10" description="" datetime="10/15/22 5:12 PM" longitude="-111.74197486" source="" customnodeid="" copyright="" comment=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label enabled="1" wordwrap="1" height="20" textcolor="0x000000" width="180" textalpha="1" border="1" background="1" backgroundalpha="1" borderradius="1" bordercolor="0x000000" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" borderalpha="1"/>
+      <hotspot title="" tilt="-11.09" target="$fwd" skinid="ht_node" description="" url="{node9}" id="Point01" distance="0.541396" pan="67.401"/>
+      <hotspot title="" tilt="-33.27" target="$fwd" skinid="ht_node" description="" url="{node1}" id="Point05" distance="2.38914" pan="3.07705"/>
+      <hotspot title="Offices" tilt="-11.66" target="" skinid="ht_info" description="This is where all the reports are written and edited and sent to the locations for the builders to start building. " url="" id="Point02" pan="-243.54"/>
+    </hotspots>
+    <media>
+      <sound loop="1" ambientlevel="0.000" startmutedmobile="0" mode="5" tilt="-11.470" level="1.000" id="Element01" tiltsize="10.000" nodechangekeep="0" pansize="10.000" pan="-100.900" field="90.000">
+        <source url="media/Office space sounds.mp3"/>
+      </sound>
+    </media>
+    <transition enabled="1" blendtime="1" blendcolor="0x000000" zoomoutpause="1" zoomspeed="2" zoomfov="20" zoomafterinfov="90" zoomafteroutfov="20" softedge="0" zoomout="0" zoomin="0" type="crossdissolve"/>
+    <autorotate enabled="1" useanimation="0" delay="5.00" nodefilter="" nodedelay="0.00" speed="0.050" startloaded="0" noderandom="1" returntohorizon="0.000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control dblclickfullscreen="0" contextfullscreen="1" lockedwheel="0" invertwheel="0" contextvr="1" simulatemass="1" speedwheel="1" invertcontrol="1" contextprojections="0" sensitivity="8" rubberband="0" lockedmouse="0" lockedkeyboardzoom="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input height="2266" width="2266" overlap="1" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400" levelingroll="0" leveltilesize="510" levelbiashidpi="1.000">
+      <level height="2266" predecode="0" width="2266" preload="0"/>
+      <level height="1133" predecode="0" width="1133" preload="0"/>
+      <level height="566" predecode="0" width="566" preload="0"/>
+      <level height="283" predecode="1" width="283" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-1.14504" fovmode="0">
+      <start fov="70" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="120" scaletofit="1" tilt="90" fovfisheye="360" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata info="" title="" author="-" nodeid="node9" heading="-1.14504" tags="CMT Engineering business tour" latitude="40.32830001" streetviewlink="https://www.google.com/maps/@40.3283,-111.7419809,3a,75y,358.85h/data=!3m4!1e1!3m2!1sAF1QipPrCeNoA6BQth7E0y_i2qjAeYvbAYFadYvfNMH8!2e10" description="" datetime="10/15/22 5:14 PM" longitude="-111.74198091" source="" customnodeid="" copyright="" comment=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label enabled="1" wordwrap="1" height="20" textcolor="0x000000" width="180" textalpha="1" border="1" background="1" backgroundalpha="1" borderradius="1" bordercolor="0x000000" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" borderalpha="1"/>
+      <hotspot title="" tilt="-6.54" target="$fwd" skinid="ht_node" description="" url="{node8}" id="Point02" distance="0.541396" pan="-160.843"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" blendtime="1" blendcolor="0x000000" zoomoutpause="1" zoomspeed="2" zoomfov="20" zoomafterinfov="90" zoomafteroutfov="20" softedge="0" zoomout="0" zoomin="0" type="crossdissolve"/>
+    <autorotate enabled="1" useanimation="0" delay="5.00" nodefilter="" nodedelay="0.00" speed="0.050" startloaded="0" noderandom="1" returntohorizon="0.000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control dblclickfullscreen="0" contextfullscreen="1" lockedwheel="0" invertwheel="0" contextvr="1" simulatemass="1" speedwheel="1" invertcontrol="1" contextprojections="0" sensitivity="8" rubberband="0" lockedmouse="0" lockedkeyboardzoom="0" lockedkeyboard="0"/>
+  </panorama>
+  <masternode>
+    <userdata info="" title="" author="" nodeid="master" heading="0" tags="" latitude="" description="" datetime="" longitude="" source="" customnodeid="" copyright="" comment=""/>
+  </masternode>
+</tour>
