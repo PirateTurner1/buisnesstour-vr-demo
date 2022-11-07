@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1" apprev="18116" appversion="6.1.15">
+  <panorama id="node1">
+    <input width="1350" levelingroll="0" height="1350" overlap="1" levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelbias="0.400">
+      <level width="1350" preload="0" height="1350" predecode="0"/>
+      <level width="675" preload="0" height="675" predecode="0"/>
+      <level width="337" preload="1" height="337" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="102" fovmode="0">
+      <start pan="0" tilt="0" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" tilt="90" fov="140" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata title="Lower Bell Canyon Reservoir" longitude="-111.79637074" comment="" description="" heading="102" source="" datetime="10/14/2022 1:55 PM" copyright="" tags="bell canyon 18" author="-" info="" customnodeid="" nodeid="node1" latitude="40.56634778" streetviewlink="https://www.google.com/maps/@40.5663478,-111.7963707,3a,75y,102h,90t/data=!3m4!1e1!3m2!1sAF1QipNH1HQnkCjDb9ub_oUcR7A1mBV_XNnPeYEznnk1!2e10"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" bordercolor="0x000000" height="20" background="1" borderalpha="1" border="1" backgroundalpha="1" enabled="1" textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" textalpha="1" wordwrap="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" mode="0" handcursor="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot distance="98.0429" target="$fwd" id="Point02" skinid="ht_node" pan="122.51" title="Lower Bell Canyon Reservoir" description="" tilt="6.4" url="{node2}"/>
+    </hotspots>
+    <media>
+      <lensflare id="Lensflare01" pan="-205.070" blinding="50.000" type="3" color="0xffffff" tilt="30.290" alpha="80.000"/>
+    </media>
+    <transition zoomafteroutfov="40" type="crossdissolve" zoomafterinfov="140" zoomin="0" enabled="1" zoomoutpause="1" blendcolor="0x000000" blendtime="1" zoomout="0" softedge="0" zoomspeed="2" zoomfov="40"/>
+    <autorotate nodefilter="" nodedelay="0.00" delay="1.00" enabled="1" noderandom="1" returntohorizon="0.000" useanimation="0" speed="0.400" startloaded="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" lockedmouse="0" contextvr="1" contextprojections="0" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" lockedwheel="0" contextfullscreen="1" lockedkeyboard="0" rubberband="0" dblclickfullscreen="0" invertcontrol="1" invertwheel="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input width="2261" levelingroll="0" height="2261" overlap="1" levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelbias="0.400">
+      <level width="2261" preload="0" height="2261" predecode="0"/>
+      <level width="1130" preload="0" height="1130" predecode="0"/>
+      <level width="565" preload="0" height="565" predecode="0"/>
+      <level width="282" preload="1" height="282" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="145.238" fovmode="0">
+      <start pan="0" tilt="0" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" tilt="90" fov="140" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata title="Lower Bell Canyon Reservoir" longitude="-111.79746241" comment="" description="" heading="145.238" source="" datetime="10/14/2022 2:12 PM" copyright="" tags="Pano2VR7" author="-" info="" customnodeid="" nodeid="node2" latitude="40.56604827" streetviewlink="https://www.google.com/maps/@40.5660483,-111.7974624,3a,75y,145.2h,90t/data=!3m4!1e1!3m2!1sAF1QipNTsUALA80DDZNYq9cufbp8ly5ELrQlsnEKA52U!2e10"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" bordercolor="0x000000" height="20" background="1" borderalpha="1" border="1" backgroundalpha="1" enabled="1" textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" textalpha="1" wordwrap="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" mode="0" handcursor="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot distance="98.0429" target="$fwd" id="Point01" skinid="ht_node" pan="53.6145" title="Lower Bell Canyon Reservoir" description="" tilt="-23.39" url="{node1}"/>
+    </hotspots>
+    <media>
+      <lensflare id="Lensflare01" pan="-85.660" blinding="50.000" type="1" color="0xffffff" tilt="32.590" alpha="80.000"/>
+    </media>
+    <transition zoomafteroutfov="40" type="crossdissolve" zoomafterinfov="140" zoomin="0" enabled="1" zoomoutpause="1" blendcolor="0x000000" blendtime="1" zoomout="0" softedge="0" zoomspeed="2" zoomfov="40"/>
+    <autorotate nodefilter="" nodedelay="0.00" delay="1.00" enabled="1" noderandom="1" returntohorizon="0.000" useanimation="0" speed="0.400" startloaded="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" lockedmouse="0" contextvr="1" contextprojections="0" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" lockedwheel="0" contextfullscreen="1" lockedkeyboard="0" rubberband="0" dblclickfullscreen="0" invertcontrol="1" invertwheel="0"/>
+  </panorama>
+  <masternode>
+    <userdata title="" longitude="" comment="" description="" heading="0" source="" datetime="" copyright="" tags="" author="" info="" customnodeid="" nodeid="master" latitude=""/>
+  </masternode>
+  <map id="Map01" type="web" mapprovider="openstreetmap" mapurltemplate="http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" title="" mapmaxzoom="18" mapstyle="streets"/>
+</tour>
