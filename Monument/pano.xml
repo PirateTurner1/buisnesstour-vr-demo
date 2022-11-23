@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="18116" start="node6" appversion="6.1.15">
+  <panorama id="node4">
+    <input overlap="1" levelingroll="0" levelingpitch="0" height="2258" width="2258" leveltilesize="510" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelbiashidpi="1.000">
+      <level predecode="0" height="2258" preload="0" width="2258"/>
+      <level predecode="0" height="1129" preload="0" width="1129"/>
+      <level predecode="0" height="564" preload="0" width="564"/>
+      <level predecode="1" height="282" preload="1" width="282"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="124.658" fovmode="0">
+      <start pan="0" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" scaletofit="1" fovfisheye="360" fovstereographic="270" fov="120" tilt="90"/>
+    </view>
+    <userdata description="" datetime="10/18/22 10:48 AM" tags="complete panos" source="" comment="" streetviewlink="https://www.google.com/maps/@40.7520976,-111.8163022,3a,75y,124.66h/data=!3m4!1e1!3m2!1sAF1QipOVjxp9MVvHqFSq_HxsR0IlraKutFCCRnuMLTLE!2e10" copyright="" info="" longitude="-111.81630223" nodeid="node4" customnodeid="" latitude="40.75209759" author="-" heading="124.658" title="This Is The Place Monument"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label textalpha="1" background="1" bordercolor="0x000000" borderradius="1" textcolor="0x000000" height="20" width="180" backgroundalpha="1" wordwrap="1" borderalpha="1" enabled="1" border="1" backgroundcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot skinid="ht_node" description="" target="$fwd" pan="295.942" url="{node5}" distance="6.34242" tilt="0" id="Point02" title="This Is The Place Monument"/>
+    </hotspots>
+    <media>
+      <lensflare blinding="50.000" pan="-29.740" type="1" color="0xffffff" alpha="80.000" tilt="36.470" id="Lensflare01"/>
+    </media>
+    <transition softedge="0" type="crossdissolve" blendtime="1" zoomfov="20" zoomin="0" zoomafterinfov="90" zoomafteroutfov="20" blendcolor="0x000000" enabled="1" zoomspeed="2" zoomoutpause="1" zoomout="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" contextprojections="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" sensitivity="8" simulatemass="1" contextfullscreen="1" contextvr="1" rubberband="0" invertwheel="0" dblclickfullscreen="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input overlap="1" levelingroll="0" levelingpitch="0" height="2263" width="2263" leveltilesize="510" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelbiashidpi="1.000">
+      <level predecode="0" height="2263" preload="0" width="2263"/>
+      <level predecode="0" height="1131" preload="0" width="1131"/>
+      <level predecode="0" height="565" preload="0" width="565"/>
+      <level predecode="1" height="282" preload="1" width="282"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="114.847" fovmode="0">
+      <start pan="0" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" scaletofit="1" fovfisheye="360" fovstereographic="270" fov="120" tilt="90"/>
+    </view>
+    <userdata description="" datetime="10/18/22 10:50 AM" tags="complete panos" source="" comment="" streetviewlink="https://www.google.com/maps/@40.7520412,-111.8163136,3a,75y,114.85h/data=!3m4!1e1!3m2!1sAF1QipOPAoT1b6SgtxwU26i7i6e8Z52181hTk-JE-_wO!2e10" copyright="" info="" longitude="-111.81631364" nodeid="node5" customnodeid="" latitude="40.75204121" author="-" heading="114.847" title="This Is The Place Monument"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label textalpha="1" background="1" bordercolor="0x000000" borderradius="1" textcolor="0x000000" height="20" width="180" backgroundalpha="1" wordwrap="1" borderalpha="1" enabled="1" border="1" backgroundcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot skinid="ht_node" description="" target="$fwd" pan="106.131" url="{node4}" distance="6.34242" tilt="0" id="Point01" title="This Is The Place Monument"/>
+      <hotspot skinid="ht_node" description="" target="$fwd" pan="186.395" url="{node6}" distance="8.04172" tilt="0" id="Point02" title="This Is The Place Monument"/>
+      <hotspot skinid="ht_node" description="" target="$fwd" pan="293.733" url="{node7}" distance="14.5192" tilt="0" id="Point03" title="This Is The Place Monument"/>
+    </hotspots>
+    <media>
+      <lensflare blinding="50.000" pan="-40.920" type="1" color="0xffffff" alpha="80.000" tilt="35.880" id="Lensflare01"/>
+    </media>
+    <transition softedge="0" type="crossdissolve" blendtime="1" zoomfov="20" zoomin="0" zoomafterinfov="90" zoomafteroutfov="20" blendcolor="0x000000" enabled="1" zoomspeed="2" zoomoutpause="1" zoomout="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" contextprojections="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" sensitivity="8" simulatemass="1" contextfullscreen="1" contextvr="1" rubberband="0" invertwheel="0" dblclickfullscreen="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input overlap="1" levelingroll="0" levelingpitch="0" height="2263" width="2263" leveltilesize="510" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelbiashidpi="1.000">
+      <level predecode="0" height="2263" preload="0" width="2263"/>
+      <level predecode="0" height="1131" preload="0" width="1131"/>
+      <level predecode="0" height="565" preload="0" width="565"/>
+      <level predecode="1" height="282" preload="1" width="282"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="88.8" fovmode="0">
+      <start pan="0" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" scaletofit="1" fovfisheye="360" fovstereographic="270" fov="120" tilt="90"/>
+    </view>
+    <userdata description="" datetime="10/18/22 10:54 AM" tags="complete panos" source="" comment="" streetviewlink="https://www.google.com/maps/@40.7520641,-111.8164042,3a,75y,88.8h/data=!3m4!1e1!3m2!1sAF1QipMbYU9pLSttgOLx7P_tsRwhMJ34eiZP9v-2yG7F!2e10" copyright="" info="" longitude="-111.81640420" nodeid="node6" customnodeid="" latitude="40.75206410" author="-" heading="88.8" title="This Is The Place Monument"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label textalpha="1" background="1" bordercolor="0x000000" borderradius="1" textcolor="0x000000" height="20" width="180" backgroundalpha="1" wordwrap="1" borderalpha="1" enabled="1" border="1" backgroundcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot skinid="ht_node" description="" target="$fwd" pan="-19.6517" url="{node5}" distance="8.04172" tilt="0" id="Point01" title="This Is The Place Monument"/>
+      <hotspot skinid="ht_image" description="" target="" pan="-2.23" url="images/3head-info.jpg" tilt="43.83" id="Point02" title="Head Figure"/>
+    </hotspots>
+    <media>
+      <lensflare blinding="50.000" pan="-60.990" type="1" color="0xffffff" alpha="80.000" tilt="36.820" id="Lensflare01"/>
+    </media>
+    <transition softedge="0" type="crossdissolve" blendtime="1" zoomfov="20" zoomin="0" zoomafterinfov="90" zoomafteroutfov="20" blendcolor="0x000000" enabled="1" zoomspeed="2" zoomoutpause="1" zoomout="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" contextprojections="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" sensitivity="8" simulatemass="1" contextfullscreen="1" contextvr="1" rubberband="0" invertwheel="0" dblclickfullscreen="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input overlap="1" levelingroll="0" levelingpitch="0" height="2260" width="2260" leveltilesize="510" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelbiashidpi="1.000">
+      <level predecode="0" height="2260" preload="0" width="2260"/>
+      <level predecode="0" height="1130" preload="0" width="1130"/>
+      <level predecode="0" height="565" preload="0" width="565"/>
+      <level predecode="1" height="282" preload="1" width="282"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="49.0412" fovmode="0">
+      <start pan="0" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" scaletofit="1" fovfisheye="360" fovstereographic="270" fov="120" tilt="90"/>
+    </view>
+    <userdata description="" datetime="10/18/22 10:58 AM" tags="complete panos" source="" comment="" streetviewlink="https://www.google.com/maps/@40.7519107,-111.816317,3a,75y,49.04h/data=!3m4!1e1!3m2!1sAF1QipPvN2KttIvJ-dY5pOW4O-60lakPFvk2nyZyVjDR!2e10" copyright="" info="" longitude="-111.81631699" nodeid="node7" customnodeid="" latitude="40.75191066" author="-" heading="49.0412" title="This Is The Place Monument"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label textalpha="1" background="1" bordercolor="0x000000" borderradius="1" textcolor="0x000000" height="20" width="180" backgroundalpha="1" wordwrap="1" borderalpha="1" enabled="1" border="1" backgroundcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff"/>
+    </hotspots>
+    <media>
+      <lensflare blinding="50.000" pan="-107.830" type="1" color="0xffffff" alpha="80.000" tilt="37.870" id="Lensflare01"/>
+    </media>
+    <transition softedge="0" type="crossdissolve" blendtime="1" zoomfov="20" zoomin="0" zoomafterinfov="90" zoomafteroutfov="20" blendcolor="0x000000" enabled="1" zoomspeed="2" zoomoutpause="1" zoomout="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" contextprojections="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" sensitivity="8" simulatemass="1" contextfullscreen="1" contextvr="1" rubberband="0" invertwheel="0" dblclickfullscreen="0" lockedmouse="0"/>
+  </panorama>
+  <masternode>
+    <userdata description="" datetime="" tags="" source="" comment="" copyright="" info="" longitude="" nodeid="master" customnodeid="" latitude="" author="" heading="0" title=""/>
+  </masternode>
+</tour>
