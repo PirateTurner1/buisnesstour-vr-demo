@@ -113,6 +113,10 @@ ol {
     padding-bottom: 25px;
 }
 
+ul {
+    list-style-type: none;
+}
+
 footer {
     text-align: center;
     clear: both;
