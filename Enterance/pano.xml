@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panorama apprev="18116" appversion="6.1.15" id="node1">
+  <input overlap="1" levelingroll="0" levelingpitch="0" height="2260" width="2260" leveltilesize="510" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelbiashidpi="1.000">
+    <level predecode="0" height="2260" preload="0" width="2260"/>
+    <level predecode="0" height="1130" preload="0" width="1130"/>
+    <level predecode="0" height="565" preload="0" width="565"/>
+    <level predecode="1" height="282" preload="1" width="282"/>
+    <preview strip="1" color="0x808080"/>
+  </input>
+  <view pannorth="128.041" fovmode="0">
+    <start pan="0" projection="4" fov="100" tilt="0"/>
+    <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+    <min pan="0" fovpixel="2" tilt="-90"/>
+    <max pan="360" scaletofit="1" fovfisheye="360" fovstereographic="330" fov="140" tilt="90"/>
+  </view>
+  <userdata description="" datetime="10/18/2022 11:28 AM" tags="complete panos" source="" comment="" streetviewlink="https://www.google.com/maps/@40.7513697,-111.8228924,3a,75y,128.8h,90t/data=!3m4!1e1!3m2!1sAF1QipPGuwqoSrn_0JAwheBoYmMu9VZSiI0qKZXQFBWX!2e10" copyright="" info="" longitude="-111.82289243" nodeid="node1" customnodeid="" latitude="40.75136967" author="-" heading="128.041" title="This Is The Place Heritage Park"/>
+  <hotspots height="20" width="180" wordwrap="1">
+    <label textalpha="1" background="1" bordercolor="0x000000" borderradius="1" textcolor="0x000000" height="20" width="180" backgroundalpha="1" wordwrap="1" borderalpha="1" enabled="1" border="1" backgroundcolor="0xffffff"/>
+    <polystyle bordercolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff"/>
+  </hotspots>
+  <media>
+    <lensflare blinding="50.000" pan="-49.690" type="1" color="0xffffff" alpha="80.000" tilt="39.410" id="Lensflare01"/>
+  </media>
+  <transition softedge="0" type="crossdissolve" blendtime="1" zoomfov="40" zoomin="0" zoomafterinfov="110" zoomafteroutfov="40" blendcolor="0x000000" enabled="1" zoomspeed="2" zoomoutpause="1" zoomout="0"/>
+  <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+  <control lockedkeyboardzoom="0" contextprojections="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" sensitivity="8" simulatemass="1" contextfullscreen="1" contextvr="1" rubberband="0" invertwheel="0" dblclickfullscreen="0" lockedmouse="0"/>
+</panorama>
